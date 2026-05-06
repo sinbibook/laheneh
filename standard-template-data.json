@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.3.0",
-    "generatedAt": "2026-05-06T01:15:09.468815966Z",
+    "version": "1.4.0",
+    "generatedAt": "2026-05-06T01:18:23.204258108Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "991553c4-f232-4df7-b035-d6ff8a7974a7",
     "homepageId": "53c19537-5682-42d4-8253-97e220f82ce3"
@@ -993,8 +993,8 @@
                 ]
               },
               "notice": {
-                "title": "",
-                "description": ""
+                "title": "대중교통 이용방법 ",
+                "description": "🚌 속초시외버스터미널 하차 후\n1-1번·1번 버스 또는 택시 이용\n가진해변 방면 하차 후 도보 이동\n"
               }
             }
           ]
