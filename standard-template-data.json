@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.4.0",
-    "generatedAt": "2026-05-06T01:18:23.204258108Z",
+    "version": "1.5.0",
+    "generatedAt": "2026-05-06T01:36:20.763968230Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "991553c4-f232-4df7-b035-d6ff8a7974a7",
     "homepageId": "53c19537-5682-42d4-8253-97e220f82ce3"
@@ -816,17 +816,9 @@
                     "blockId": null
                   },
                   {
-                    "id": "d985a748-b595-4a15-aaac-988e7907d5f5",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/53c19537-5682-42d4-8253-97e220f82ce3/index_hero/1777885979338-4ywqz295am.jpg",
-                    "sortOrder": 2,
-                    "description": "",
-                    "isSelected": true,
-                    "blockId": null
-                  },
-                  {
                     "id": "75bcde9b-a473-4e4a-a75d-c563bb5342b8",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/53c19537-5682-42d4-8253-97e220f82ce3/index_hero/1777885979423-nkv6t0yjoo.jpg",
-                    "sortOrder": 3,
+                    "sortOrder": 2,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
@@ -834,6 +826,14 @@
                   {
                     "id": "c26cab45-33a0-4fcc-9635-05417fbd244b",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/53c19537-5682-42d4-8253-97e220f82ce3/index_hero/1777885979336-aayw7i85lo.jpg",
+                    "sortOrder": 3,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "d985a748-b595-4a15-aaac-988e7907d5f5",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/53c19537-5682-42d4-8253-97e220f82ce3/index_hero/1777885979338-4ywqz295am.jpg",
                     "sortOrder": 4,
                     "description": "",
                     "isSelected": true,
@@ -899,10 +899,28 @@
                 "mediaType": "image"
               },
               "essence": {
-                "title": "",
-                "images": [ ],
+                "title": "눈앞에 펼쳐지는 푸른 바다와 함께하는 고성 라헨느 풀빌라. 모던하고 고급스러운 인테리어 속에서 프라이빗한 휴식을 즐겨보세요. 객실 어디서든 감성 가득한 오션뷰를 만날 수 있습니다.",
+                "images": [
+                  {
+                    "id": "8b8dd791-bb01-4e75-bc15-1cbb7062a5bb",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/53c19537-5682-42d4-8253-97e220f82ce3/index_essence/1778031373499-cggoa8xsqz.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "58b29e6b-d993-4cd4-a413-6a7267772d89",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/53c19537-5682-42d4-8253-97e220f82ce3/index_essence/1778031373496-veekt1nc62.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
                 "videos": [ ],
-                "mediaType": "image"
+                "mediaType": "image",
+                "description": "Where modern luxury meets the endless ocean breeze."
               },
               "gallery": {
                 "title": "Preview",
@@ -961,7 +979,16 @@
               },
               "signature": {
                 "title": "",
-                "images": [ ],
+                "images": [
+                  {
+                    "id": "9e37ad5f-7e0f-49db-8f24-d2087660383b",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/53c19537-5682-42d4-8253-97e220f82ce3/index_signature/1778031373469-90unttvo0c.jpg",
+                    "sortOrder": 0,
+                    "description": "Private Pool, Endless Ocean View.",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
                 "videos": [ ],
                 "mediaType": "image"
               }
@@ -1072,10 +1099,10 @@
             "family": "Pretendard"
           },
           "enMain": {
-            "cdn": "https://fonts.googleapis.com/css2?family=Chonburi&display=swap",
-            "key": "chonburi",
+            "cdn": "https://use.typekit.net/vll4umt.css",
+            "key": "amandine",
             "woff2": null,
-            "family": "Chonburi"
+            "family": "amandine"
           }
         },
         "color": null
