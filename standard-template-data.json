@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.2.0",
-    "generatedAt": "2026-05-04T09:21:35.889954865Z",
+    "version": "1.3.0",
+    "generatedAt": "2026-05-06T01:15:09.468815966Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "991553c4-f232-4df7-b035-d6ff8a7974a7",
     "homepageId": "53c19537-5682-42d4-8253-97e220f82ce3"
@@ -76,7 +76,48 @@
         "description": " ",
         "usageGuide": "[실내 개별수영장]\n- 이용객실 : 201, 202\n- 이용기간 : 사계절 이용가능\n- 이용시간 : 15:00 ~ 22:00\n- 미온수 추가요금 : 1박 당 50,000원\n- 미온수 온도 : 28~30도\n- 냉수 추가요금 : 1박 당 30,000원\n※ 수영복 필수\n※ 1박기준/현장결제\n※ 1일 전 사전예약 필수\n\n[실외 개별수영장]\n- 이용객실 : 301, 304\n- 이용기간 : 2026.06.01~2026.08.31(날씨에 따라 변경될 수 있음)\n- 이용시간 : 15:00 ~ 22:00\n- 냉수 추가요금 : 1박 당 30,000원(미온수 불가)\n- 복장 : 수영복 필수\n※ 수영복 필수\n※ 1박기준/현장결제\n※ 1일 전 사전예약 필수\n\n[수영장 이용수칙]\n※수영장 계단 및 바닥, 객실 바닥 등 시설물 이용 시 미끄러울 수 있으므로 주의 바랍니다.\n※수영복, 래쉬가드를 꼭 착용해 주세요. 일상복으로 수영장 이용 금지(수질오염의 원인)\n※안전사고를 예방하기 위하여 아쿠아 슈즈 착용하고 수영장 이용 바랍니다.\n※어린아이들의 경우 안전사고가 발생하지 않도록 부모님과 함께 입장하시기 바랍니다.\n※수영장내 뛰거나 다이빙은 금지합니다.\n※음주자, 심장 질환자는 수영장 이용을 금합니다.\n※수영장 내에서는 취식 및 음주를 금합니다.\n※장난감, 입욕제, 물풍선 등 기타 이물질들은 수영장 내 여과기 고장 및 타일 변색의 원인이 되어 사용을 금합니다.",
         "displayOrder": 4,
-        "images": [ ]
+        "images": [
+          {
+            "id": "f72509d8-542b-4a87-9f9d-152934e81c57",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/718977b3-a3b7-478c-b503-1e4c0825e738/main/1777886572826-byv8fgjsz4.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "8d73aae9-0811-4327-bed5-1e5a55f710ae",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/718977b3-a3b7-478c-b503-1e4c0825e738/main/1777886572866-i80mzwp0n1.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "99f433f8-cb59-40d0-a124-c281e8925103",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/718977b3-a3b7-478c-b503-1e4c0825e738/main/1777886572847-btdgpi0es8.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "a5dfa759-e2f6-4399-9a28-d9054fbf337d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/718977b3-a3b7-478c-b503-1e4c0825e738/main/1777886572861-3ymr0yjnyf.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "8157a99a-d1ea-4b5f-af58-2afc5d7687db",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/718977b3-a3b7-478c-b503-1e4c0825e738/main/1777886572867-j4yx3ahpbf.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
       },
       {
         "id": "24b3f073-f4f1-4580-b9c9-cf09b11d8c67",
@@ -84,7 +125,48 @@
         "description": " ",
         "usageGuide": "- 이용객실 : 전 객실\n- 이용시간 : 15:00 ~ 22:00\n※ 거품/입욕제 사용불가",
         "displayOrder": 5,
-        "images": [ ]
+        "images": [
+          {
+            "id": "87e83926-5253-421f-a11d-dce8ee92197a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/24b3f073-f4f1-4580-b9c9-cf09b11d8c67/main/1777886652352-22eva4l2jz.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "41f82f57-668d-4d9e-b1ea-de31614ed65e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/24b3f073-f4f1-4580-b9c9-cf09b11d8c67/main/1777886652731-ppvecjr4yw.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "06bea6d0-8b6f-47b3-98cf-d30aa3a52d4d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/24b3f073-f4f1-4580-b9c9-cf09b11d8c67/main/1777886652419-wiqmnb9e2f.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "fb7fe623-9824-45b5-9aea-6a10ac58a0fe",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/24b3f073-f4f1-4580-b9c9-cf09b11d8c67/main/1777886652632-3c7rp1aybp.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "fcc00c7f-887d-42df-8f1e-7c868c4d0cd2",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/24b3f073-f4f1-4580-b9c9-cf09b11d8c67/main/1777886652726-7azp41kzhf.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
       },
       {
         "id": "e7349146-365c-411a-853b-322a4391ea51",
@@ -100,7 +182,24 @@
         "description": " ",
         "usageGuide": "- 샌드위치, 샐러드, 음료 제공(현장상황에 따라 달라질 수 있음)\n- 연박 시 전 일정 제공",
         "displayOrder": 162,
-        "images": [ ]
+        "images": [
+          {
+            "id": "3b313e68-dc15-41c2-914b-c013b1298a15",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c48f6930-a915-4dee-afd5-ded9bfe9d058/main/1777886812729-surcdaepra.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "b3441bab-045f-4574-95b0-bac07241732e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c48f6930-a915-4dee-afd5-ded9bfe9d058/main/1777886812709-lxzrhyz3zb.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
       },
       {
         "id": "ab820b39-0877-4910-ad50-c79c2fee4511",
@@ -108,7 +207,48 @@
         "description": " ",
         "usageGuide": "- 투숙객 커피 무료 제공\n- 간단한 커피 판매",
         "displayOrder": 163,
-        "images": [ ]
+        "images": [
+          {
+            "id": "af829408-71e4-46a4-86e8-5db082914020",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ab820b39-0877-4910-ad50-c79c2fee4511/main/1777886814446-ao1y76ds98.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "1ce22ac0-72d1-412a-9355-051edcac0fd5",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ab820b39-0877-4910-ad50-c79c2fee4511/main/1777886814447-pbxv2yik5d.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "34a753dc-a1b7-44db-8ad3-1c677d29a502",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ab820b39-0877-4910-ad50-c79c2fee4511/main/1777886814511-qn2kj788o2.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "1f949704-79c6-40aa-948b-0239c8242d95",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ab820b39-0877-4910-ad50-c79c2fee4511/main/1777886814615-jsqjhti7bx.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "3046559e-d45b-4088-ba9f-37f5105443ff",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ab820b39-0877-4910-ad50-c79c2fee4511/main/1777886814547-56llujpoti.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
       },
       {
         "id": "d38d17e3-20a4-4463-af2b-f88f60c29e2f",
@@ -116,7 +256,40 @@
         "description": " ",
         "usageGuide": "- 가스그릴 : 1SET(2~3인) 30,000원 / 4인이상 2SET 이용필수\n- 이용장소 : 사무실 앞 공용바베큐장 (객실에서 도보 2분)\n- 이용시간 : 15:00 ~ 21:00\n※ 1박기준/현장결제\n※ 2시간 전 펜션사전문의",
         "displayOrder": 164,
-        "images": [ ]
+        "images": [
+          {
+            "id": "4146c9e2-8644-41ed-b2f9-93b334ff6d8b",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d38d17e3-20a4-4463-af2b-f88f60c29e2f/main/1777886815750-0pjt07wwlx.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "9ff27074-f396-45c7-9e2d-1745c5cef583",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d38d17e3-20a4-4463-af2b-f88f60c29e2f/main/1777886815759-vj0lpc8ohq.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "8c72133f-e033-427e-9494-abc0c1f19e51",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d38d17e3-20a4-4463-af2b-f88f60c29e2f/main/1777886815814-pf75yboq2q.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "172425ed-9118-4202-9202-e6a2876f5661",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d38d17e3-20a4-4463-af2b-f88f60c29e2f/main/1777886815762-12wvqy7jko.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
       }
     ],
     "refundPolicies": [
@@ -595,13 +768,22 @@
     "templateType": "full_banner_slider_flat",
     "images": [
       {
-        "logo": [ ]
+        "logo": [
+          {
+            "id": "5aa056c5-1567-4a80-87a6-31e6e2ff33b1",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/53c19537-5682-42d4-8253-97e220f82ce3/logo/1778029991752-ctdtjvipx8.png",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
       }
     ],
     "seo": {
-      "title": "",
-      "description": "",
-      "keywords": ""
+      "title": "고성 라헨느풀빌라 H",
+      "description": "고성 라헨느 풀빌라, 프라이빗 풀과 감성 오션뷰로 완성되는 특별한 휴식",
+      "keywords": "고성풀빌라,라헨느풀빌라,오션뷰숙소,프라이빗풀빌라,감성숙소추천"
     },
     "socialLinks": {
       "facebook": null,
@@ -900,7 +1082,125 @@
       },
       "property": {
         "name": "고성 라헨느풀빌라 H",
-        "images": [ ],
+        "images": [
+          {
+            "id": "ab3a0062-646f-4a40-b6d1-b7ecf8eac42a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/53c19537-5682-42d4-8253-97e220f82ce3/property_thumbnail/1778030103515-3b2vg8wl1v.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_thumbnail"
+          },
+          {
+            "id": "c7cb1f0e-56a7-4b6e-b280-421b0029ccbc",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/53c19537-5682-42d4-8253-97e220f82ce3/property_exterior/1778030103569-aslvvln84b.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "90bbf341-4a13-4b0b-b184-e371c2b27868",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/53c19537-5682-42d4-8253-97e220f82ce3/property_exterior/1778030103669-a242ab1d5a.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "e2a1c216-1959-4d6b-beb1-646742bd69c1",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/53c19537-5682-42d4-8253-97e220f82ce3/property_exterior/1778030103571-kp2zwo9hjq.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "13670fd8-4950-47b9-b42b-cd434bc69ec0",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/53c19537-5682-42d4-8253-97e220f82ce3/property_exterior/1778030103572-i3wfxhvef8.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "ed7b8fc5-ebf8-498c-944a-1f847a93c2c2",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/53c19537-5682-42d4-8253-97e220f82ce3/property_exterior/1778030103574-c5abmsjmlc.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "1d592a41-6203-47a2-a000-e545d773393c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/53c19537-5682-42d4-8253-97e220f82ce3/property_exterior/1778030103575-htpyfi6ge5.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "354be75b-44ad-45c1-9935-93d32a5e1323",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/53c19537-5682-42d4-8253-97e220f82ce3/property_exterior/1778030103681-3i0rexiabg.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "2ee115f1-ada9-43f6-9a69-bfe349af234f",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/53c19537-5682-42d4-8253-97e220f82ce3/property_exterior/1778030103671-2cbirc5uzn.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "54bbc418-c7cc-4d81-bf47-2ea09128fb27",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/53c19537-5682-42d4-8253-97e220f82ce3/property_exterior/1778030103775-r3uzj5yzab.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "cc5a64f5-1847-46de-8353-d8d6d98c8082",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/53c19537-5682-42d4-8253-97e220f82ce3/property_exterior/1778030103674-e6ubrhjd45.jpg",
+            "sortOrder": 9,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "d67fbb7d-9ac4-48c4-8c70-a8ac6074424f",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/53c19537-5682-42d4-8253-97e220f82ce3/property_exterior/1778030103770-wnlgnpe5qm.jpg",
+            "sortOrder": 10,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "8ca7bbf6-a562-4e99-864f-3372742fb9ef",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/53c19537-5682-42d4-8253-97e220f82ce3/property_exterior/1778030103674-fv3v71w47o.jpg",
+            "sortOrder": 11,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          }
+        ],
         "nameEn": "Goseong Lahene poolvilla H"
       },
       "roomtypes": [
