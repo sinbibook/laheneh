@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.5.0",
-    "generatedAt": "2026-05-06T01:36:20.763968230Z",
+    "version": "1.6.0",
+    "generatedAt": "2026-05-06T01:41:58.144665700Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "991553c4-f232-4df7-b035-d6ff8a7974a7",
     "homepageId": "53c19537-5682-42d4-8253-97e220f82ce3"
@@ -1030,7 +1030,7 @@
           "sections": [
             {
               "hero": {
-                "title": "",
+                "title": " ",
                 "images": [
                   {
                     "id": "27b8c97a-1c3b-41f0-b3a8-a492d41174b2",
@@ -1040,9 +1040,41 @@
                     "isSelected": true,
                     "blockId": null
                   }
-                ]
+                ],
+                "description": "눈앞에 펼쳐지는 푸른 바다와 함께하는 고성 라헨느 풀빌라. \n모던하고 고급스러운 인테리어 속에서 \n프라이빗한 휴식을 즐겨보세요. \n객실 어디서든 감성 가득한 오션뷰를 만날 수 있습니다."
               },
-              "about": [ ]
+              "about": [
+                {
+                  "title": "오션뷰 풀빌라 객실",
+                  "images": [
+                    {
+                      "id": "43b91fb0-82a3-4368-b100-e6bcecc9ba04",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/53c19537-5682-42d4-8253-97e220f82ce3/main_about/1778031633125-iz12k7d8dt.jpg",
+                      "sortOrder": 0,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "c2f2216e-f74e-4e62-8d71-ce08e6af82a3"
+                    }
+                  ],
+                  "blockId": "c2f2216e-f74e-4e62-8d71-ce08e6af82a3",
+                  "description": "프라이빗 풀에서 즐기는 여유로운 수영,\n눈앞 가득 펼쳐지는 오션뷰 힐링."
+                },
+                {
+                  "title": "바다를 품은 프라이빗 펜션",
+                  "images": [
+                    {
+                      "id": "0698f803-8ec8-4142-8262-7e9fa0badfa4",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/53c19537-5682-42d4-8253-97e220f82ce3/main_about/1778031633116-kb517k8qqn.jpg",
+                      "sortOrder": 1,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "f737139a-326f-4067-8818-1858e38b3375"
+                    }
+                  ],
+                  "blockId": "f737139a-326f-4067-8818-1858e38b3375",
+                  "description": "숙소 앞 펼쳐지는 고성 동해바다 오션뷰\n시원한 바다 물놀이와 여유로운 힐링타임\n감성과 휴식을 모두 담은 프라이빗 풀빌라"
+                }
+              ]
             }
           ]
         },
