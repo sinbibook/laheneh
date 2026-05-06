@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.7.0",
-    "generatedAt": "2026-05-06T01:42:41.179890637Z",
+    "version": "1.8.0",
+    "generatedAt": "2026-05-06T04:21:25.877945739Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "991553c4-f232-4df7-b035-d6ff8a7974a7",
     "homepageId": "53c19537-5682-42d4-8253-97e220f82ce3"
@@ -9,7 +9,7 @@
   "property": {
     "id": "991553c4-f232-4df7-b035-d6ff8a7974a7",
     "name": "고성 라헨느풀빌라 H",
-    "nameEn": "Goseong Lahene poolvilla H",
+    "nameEn": "Goseong Lareine poolvilla H",
     "description": "",
     "subtitle": "",
     "address": "강원특별자치도 고성군 죽왕면 가진해변길 231",
@@ -167,14 +167,6 @@
             "blockId": null
           }
         ]
-      },
-      {
-        "id": "e7349146-365c-411a-853b-322a4391ea51",
-        "name": "애견동반",
-        "description": "일부 객실 애견 동반이 가능합니다. ",
-        "usageGuide": "[애견동반]\n- 이용 객실: 202, 303, 304호\n- 이용 요금: 마리당 20,000원 (1박기준/현장결제)\n- 제한 무게: 10kg 미만\n- 제한 마릿수: 객실 당 최대 2마리\n- 애견 비품: 배변판, 애견식기 제공\n\n[애견동반 시 유의사항]\n- 객실 내 강아지를 혼자 두는 것은 불가합니다. \n- 수영장, 스파 내 애견 입수 금지이며 위반 시 10만원의 위약금 발생됩니다. ",
-        "displayOrder": 161,
-        "images": [ ]
       },
       {
         "id": "c48f6930-a915-4dee-afd5-ded9bfe9d058",
@@ -1260,7 +1252,7 @@
             "category": "property_exterior"
           }
         ],
-        "nameEn": "Goseong Lahene poolvilla H"
+        "nameEn": "Goseong Lareine Poolviila H"
       },
       "roomtypes": [
         {
